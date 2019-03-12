@@ -1,5 +1,6 @@
 {
   "projects": {
-    "cors": "git@github.com:fearlessjs/cors.git"
+    "cors": "git@github.com:fearlessjs/cors.git",
+    "ssl": "https://github.com/fearlessjs/ssl"
   }
 }
