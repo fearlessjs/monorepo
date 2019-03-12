@@ -20,11 +20,11 @@
     "url": "git+https://github.com/fearlessjs/monorepo.git"
   },
   "scripts": {
-    "meta:add": "meta project add",
-    "meta:git:pull": "meta git pull origin master",
-    "meta:git:push": "meta git pull origin master",
-    "meta:init": "meta init",
-    "meta:update": "meta git update",
-    "meta:yarn": "meta-npm install"
+    "meta:add": "./node_modules/.bin/meta project add",
+    "meta:git:pull": "./node_modules/.bin/meta git pull origin master",
+    "meta:git:push": "./node_modules/.bin/meta git pull origin master",
+    "meta:init": "./node_modules/.bin/meta init",
+    "meta:update": "./node_modules/.bin/meta git update",
+    "meta:yarn": "./node_modules/.bin/meta-yarn install"
   }
 }
