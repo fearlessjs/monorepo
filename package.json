@@ -1,0 +1,30 @@
+{
+  "name": "@fearless/monorepo",
+  "description": "monorepo",
+  "version": "0.1.0",
+  "author": "Rodrigo Oler <https://github.com/rodrigooler>",
+  "bugs": {
+    "url": "https://github.com/fearlessjs/monorepo/issues"
+  },
+  "devDependencies": {
+    "meta": "1.2.16",
+    "meta-npm": "1.0.2"
+  },
+  "homepage": "https://github.com/fearlessjs/monorepo#readme",
+  "keywords": [
+    "monorepo"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fearlessjs/monorepo.git"
+  },
+  "scripts": {
+    "meta:add": "meta project add",
+    "meta:git:pull": "meta git pull origin master",
+    "meta:git:push": "meta git pull origin master",
+    "meta:init": "meta init",
+    "meta:update": "meta git update"
+  }
+}
