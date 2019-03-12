@@ -2,6 +2,7 @@
   "projects": {
     "cors": "git@github.com:fearlessjs/cors.git",
     "ssl": "https://github.com/fearlessjs/ssl",
-    "examples": "git@github.com:fearlessjs/examples.git"
+    "examples": "git@github.com:fearlessjs/examples.git",
+    "fearless": "git@github.com:fearlessjs/fearless.git"
   }
 }
