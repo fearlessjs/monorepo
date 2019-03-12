@@ -1192,7 +1192,7 @@ meta-loop@1.0.0, meta-loop@^1.0.0:
     get-meta-file "^1.0.0"
     loop "^3.0.6"
 
-meta-npm@^1.0.2:
+meta-npm@1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/meta-npm/-/meta-npm-1.0.2.tgz#dc0b101dc6425777d5dcde31e4e3995bd416ab32"
   integrity sha512-epZW3iBKcSKxLppm60MCiGTganlizvBbFmwBtAn8zvI4FoKVDDBBQYQbk4rRqKjRBLTHNMOEAVfuTd891c+wnQ==
@@ -1222,7 +1222,7 @@ meta-project@1.0.1:
     meta-exec "^1.0.0"
     mkdirp "^0.5.1"
 
-meta@^1.2.16:
+meta@1.2.16:
   version "1.2.16"
   resolved "https://registry.yarnpkg.com/meta/-/meta-1.2.16.tgz#4c78fde025aa299ba8058f57ee41ae9ed6c1e59e"
   integrity sha512-0WvXZlp6T8HhM+x2q2umI5lixzZ4urCFCmOvlRYaDnrzPdQyjU5UOcpX5GYWUOXK78ZVvrxwcuWu0WUWEQjWug==
