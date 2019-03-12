@@ -7,8 +7,7 @@
     "url": "https://github.com/fearlessjs/monorepo/issues"
   },
   "devDependencies": {
-    "meta": "1.2.16",
-    "meta-yarn": "^1.0.0"
+    "meta": "1.2.16"
   },
   "homepage": "https://github.com/fearlessjs/monorepo#readme",
   "keywords": [
@@ -25,6 +24,7 @@
     "meta:git:pull": "meta git pull origin master",
     "meta:git:push": "meta git pull origin master",
     "meta:init": "meta init",
-    "meta:update": "meta git update"
+    "meta:update": "meta git update",
+    "meta:yarn": "meta-npm install"
   }
 }

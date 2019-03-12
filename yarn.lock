@@ -220,7 +220,7 @@ commander@^2.9.0:
   resolved "https://registry.yarnpkg.com/commander/-/commander-2.19.0.tgz#f6198aa84e5b83c46054b94ddedbfed5ee9ff12a"
   integrity sha512-6tvAOO+D6OENvRAh524Dh9jcfKTYDQAqvqezbCW82xj5X0pSrcpxtvRKHLG0yBY6SD7PSDrJaj+0AiOcKVd1Xg==
 
-commander@mateodelnorte/commander.js:
+"commander@github:mateodelnorte/commander.js":
   version "2.15.1"
   resolved "https://codeload.github.com/mateodelnorte/commander.js/tar.gz/fc217f4bf1a4cc4728af169f4ea60659dd7a94ea"
   dependencies:
@@ -982,7 +982,7 @@ locate-path@^3.0.0:
     p-locate "^3.0.0"
     path-exists "^3.0.0"
 
-lodash@^4.17.11, lodash@^4.17.2, lodash@^4.17.4:
+lodash@^4.17.11, lodash@^4.17.2:
   version "4.17.11"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.11.tgz#b39ea6229ef607ecd89e2c8df12536891cac9b8d"
   integrity sha512-cQKh8igo5QUhZ7lg38DYWAxMvjSAKG0A8wGSVimP07SIUEK2UO+arSRKbRZWtelMtN5V0Hkwh5ryOto/SshYIg==
@@ -1089,20 +1089,6 @@ meta-project@1.0.1:
     loop "^3.0.6"
     meta-exec "^1.0.0"
     mkdirp "^0.5.1"
-
-meta-yarn@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/meta-yarn/-/meta-yarn-1.0.0.tgz#99bbae0527e6bb116679409dce670351e9034366"
-  integrity sha512-k2uSkRzKn66I0/U1gN21N4VF9QxfsGSH4OY+Q26LbgwmfBeKzjTgPgipnz9F9/NbbgFU/0Z4ZMa9QpYTtaOyyA==
-  dependencies:
-    async "^2.1.4"
-    chalk "^2.4.1"
-    commander "^2.9.0"
-    debug "^4.1.0"
-    get-meta-file "^1.0.0"
-    lodash "^4.17.4"
-    loop "^3.0.6"
-    meta-exec "^1.0.0"
 
 meta@1.2.16:
   version "1.2.16"
