@@ -4,6 +4,7 @@
     "ssl": "https://github.com/fearlessjs/ssl",
     "examples": "git@github.com:fearlessjs/examples.git",
     "fearless": "git@github.com:fearlessjs/fearless.git",
-    "benchmarks": "git@github.com:fearlessjs/benchmarks.git"
+    "benchmarks": "git@github.com:fearlessjs/benchmarks.git",
+    "docs": "git@github.com:fearlessjs/docs.git"
   }
 }
