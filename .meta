@@ -7,6 +7,7 @@
     "benchmarks": "git@github.com:fearlessjs/benchmarks.git",
     "docs": "git@github.com:fearlessjs/docs.git",
     "apollo-server-fearless": "git@github.com:fearlessjs/apollo-server-fearless.git",
-    "listen": "git@github.com:fearlessjs/listen.git"
+    "listen": "git@github.com:fearlessjs/listen.git",
+    "querystring": "git@github.com:fearlessjs/querystring.git"
   }
 }

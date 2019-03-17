@@ -67,3 +67,4 @@ benchmarks
 docs
 apollo-server-fearless
 listen
+querystring
